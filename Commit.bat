@@ -12,5 +12,5 @@ git add -A
 git commit -a -m "by Dgbc-Zjh-X230i ip 172.17.1.136"
 
 ::远程提交
-git remote add origin git remote add origin https://zzzjjhh:z;rong2@github.com/zzzjjhh/test.git
+git remote add origin https://zzzjjhh:z;rong2@github.com/zzzjjhh/test.git
 git push -u origin master
