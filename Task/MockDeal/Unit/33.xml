@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root _type="java.util.ArrayList" _elemType="com.kt.WebServer.Bean.ThresholdIterator">
+  <e_ xname="anonymous" xcalcChangeInDays="60" xchangeRateEnlargeFactor="1000.0" xchangeRateBaseDays="360" xminChangeRate="80" xuntilYearsFromNow="2" xstatSectionCount="10" xstatCountAndValueFactor="5" xminChangeToSell="10.0" xmaxEndureLoss="-20" xmaxHolds="4" xmaxHoldDays="90" xinitAccountBalance="100000.0" xminAccountBalance="1000" xmockDealDays="720" xminMatchCount="50" xminMatchRate="100" xuId="169">
+    <xstatUntilDate _type="java.sql.Date" _OID="0"/>
+  </e_>
+  <e_ xname="anonymous" xcalcChangeInDays="60" xchangeRateEnlargeFactor="1000.0" xchangeRateBaseDays="360" xminChangeRate="80" xuntilYearsFromNow="2" xstatSectionCount="10" xstatCountAndValueFactor="5" xminChangeToSell="10.0" xmaxEndureLoss="-20" xmaxHolds="4" xmaxHoldDays="120" xinitAccountBalance="100000.0" xminAccountBalance="1000" xmockDealDays="720" xminMatchCount="50" xminMatchRate="80" xuId="170">
+    <xstatUntilDate _type="java.sql.Date" _SID="0"/>
+  </e_>
+  <e_ xname="anonymous" xcalcChangeInDays="60" xchangeRateEnlargeFactor="1000.0" xchangeRateBaseDays="360" xminChangeRate="80" xuntilYearsFromNow="2" xstatSectionCount="10" xstatCountAndValueFactor="5" xminChangeToSell="10.0" xmaxEndureLoss="-20" xmaxHolds="4" xmaxHoldDays="120" xinitAccountBalance="100000.0" xminAccountBalance="1000" xmockDealDays="720" xminMatchCount="50" xminMatchRate="90" xuId="171">
+    <xstatUntilDate _type="java.sql.Date" _SID="0"/>
+  </e_>
+  <e_ xname="anonymous" xcalcChangeInDays="60" xchangeRateEnlargeFactor="1000.0" xchangeRateBaseDays="360" xminChangeRate="80" xuntilYearsFromNow="2" xstatSectionCount="10" xstatCountAndValueFactor="5" xminChangeToSell="10.0" xmaxEndureLoss="-20" xmaxHolds="4" xmaxHoldDays="120" xinitAccountBalance="100000.0" xminAccountBalance="1000" xmockDealDays="720" xminMatchCount="50" xminMatchRate="100" xuId="172">
+    <xstatUntilDate _type="java.sql.Date" _SID="0"/>
+  </e_>
+  <e_ xname="anonymous" xcalcChangeInDays="60" xchangeRateEnlargeFactor="1000.0" xchangeRateBaseDays="360" xminChangeRate="80" xuntilYearsFromNow="2" xstatSectionCount="10" xstatCountAndValueFactor="5" xminChangeToSell="10.0" xmaxEndureLoss="-20" xmaxHolds="5" xmaxHoldDays="60" xinitAccountBalance="100000.0" xminAccountBalance="1000" xmockDealDays="720" xminMatchCount="50" xminMatchRate="80" xuId="173">
+    <xstatUntilDate _type="java.sql.Date" _SID="0"/>
+  </e_>
+</root>
