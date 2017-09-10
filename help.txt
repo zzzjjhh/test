@@ -36,6 +36,6 @@ git remote add origin [url]
 假如我的项目的Git地址为：http://118.28.35.163/android/chat.git，用户名为：dai_zhenliang@163.com，密码为：daizhenliang888999，右击_netrc这个文件，选择使用记事本打开（或者其他的文本编辑软件都可以），输入如下内容：
 machine 118.28.35.163
 login dai_zhenliang@163.com
-password daizhenliang888999
+password daizhenliang888999 
 
 3、OK了，直接进行Pull和Push操作吧，不再会让你输入用户名和密码了。注：上面中的machine不一定是ip值，如果你的git地址是http://git.daizhenliang.com/android/chat.git,则machine的值应该为：git.daizhenliang.com
