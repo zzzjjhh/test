@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root _type="java.util.ArrayList" _elemType="com.kt.WebServer.Bean.ThresholdIterator">
+  <e_ xname="anonymous" xgain="111698.02800000008" xgainRate="0.5662469475000004" xcalcChangeInDays="60" xchangeRateEnlargeFactor="1000.0" xchangeRateBaseDays="360" xminChangeRate="10" xuntilYearsFromNow="2" xstatSectionCount="10" xstatUntilDate="1422720000000" xstatCountAndValueFactor="5" xminChangeToSell="10.0" xmaxEndureLoss="-10" xmaxHolds="1" xmaxHoldDays="60" xinitAccountBalance="100000.0" xminAccountBalance="1000" xmockDealDays="720" xminMatchCount="50" xminMatchRate="10" xuId="2"/>
+  <e_ xname="anonymous" xgain="139186.5504000001" xgainRate="0.7055984846666672" xcalcChangeInDays="60" xchangeRateEnlargeFactor="1000.0" xchangeRateBaseDays="360" xminChangeRate="10" xuntilYearsFromNow="2" xstatSectionCount="10" xstatUntilDate="1422720000000" xstatCountAndValueFactor="5" xminChangeToSell="10.0" xmaxEndureLoss="-10" xmaxHolds="1" xmaxHoldDays="60" xinitAccountBalance="100000.0" xminAccountBalance="1000" xmockDealDays="720" xminMatchCount="45" xminMatchRate="10" xuId="1"/>
+</root>
